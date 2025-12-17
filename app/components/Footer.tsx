@@ -17,7 +17,7 @@ export default function Footer() {
           ))}
         </nav>
         <p className="mt-10 text-center text-sm leading-5 text-muted-foreground">
-          &copy; {new Date().getFullYear()} Beebee. All rights reserved. Crafted with love for your skin.
+          &copy; 2024 Beebee. All rights reserved. Crafted with love for your skin.
         </p>
       </div>
     </footer>
